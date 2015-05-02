@@ -28,4 +28,3 @@ Plugin.prototype.allow_access = function(user, package, cb) {
   }
   return cb(null, true)
 }
-
