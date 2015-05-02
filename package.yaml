@@ -43,6 +43,7 @@ dependencies:
   mkdirp: '>=0.3.5 <1.0.0-0'
   sinopia-htpasswd: '>= 0.4.3'
   http-errors: '>=1.2.0'
+  handlebars-layouts: '>=2.0.2 < 3.0.0-0'
 
 optionalDependencies:
   # those are native modules that could fail to compile
